@@ -1,2 +1,11 @@
-# -_-
-웹_사이트
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>웹_사이트</title>
+</head>
+<body>
+    웹_사이트
+</body>
+</html>
